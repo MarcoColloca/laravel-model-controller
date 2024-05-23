@@ -4,3 +4,18 @@
     align-items: center;
     justify-content: center;
 }
+
+.my-movie-card-body{     
+    h5,
+    p{
+        display: inline-block;
+    }
+
+    h5{
+        color: coral;
+    }
+
+    p{
+        margin-left: 5px;
+    }
+}
